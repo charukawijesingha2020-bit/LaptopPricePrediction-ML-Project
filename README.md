@@ -1,5 +1,6 @@
 # 💻 Laptop Price Prediction using Machine Learning
 
+
 A machine learning project developed to predict laptop prices based on hardware specifications such as CPU, RAM, Storage, GPU, Screen Resolution, Operating System, and Brand.
 
 ## 📌 Project Overview
