@@ -2,6 +2,7 @@
 
 A machine learning project developed to predict laptop prices based on hardware specifications such as CPU, RAM, Storage, GPU, Screen Resolution, Operating System, and Brand.
 
+
 ## 📌 Project Overview
 
 Laptop prices vary significantly depending on their specifications and intended usage. This project applies Machine Learning techniques to estimate laptop prices accurately using historical laptop data.
