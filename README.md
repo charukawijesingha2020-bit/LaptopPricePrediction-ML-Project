@@ -130,7 +130,6 @@ The following metrics were used to evaluate model performance:
 - Scikit-Learn
 - TensorFlow / Keras
 - Google Colab
-
 ---
 
 ## 📂 Project Structure
