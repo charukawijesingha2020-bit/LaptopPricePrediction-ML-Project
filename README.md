@@ -142,3 +142,20 @@ The final model was trained using:
 
 ---
  
+
+## 📂 Project Structure
+
+```text
+LaptopPricePredictor/
+│
+├── app.py
+├── laptop_price_model.pkl
+├── laptop_price.csv
+├── preprocessed_laptopPrice.csv
+├── requirements.txt
+├── README.md
+│
+└── notebooks/
+    └── LaptopPricePrediction.ipynb
+```
+
