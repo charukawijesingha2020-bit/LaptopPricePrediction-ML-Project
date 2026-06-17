@@ -117,4 +117,28 @@ The final model was trained using:
 
 ---
 
+## 🖥️ Tech Stack
+
+### Machine Learning
+
+* Python
+* Pandas
+* NumPy
+* Scikit-Learn
+
+### Data Visualization
+
+* Matplotlib
+* Seaborn
+
+### Deployment
+
+* Streamlit
+
+### Development Environment
+
+* Google Colab
+* VS Code
+
+---
  
