@@ -97,4 +97,24 @@ One-Hot Encoding applied to:
 
 ---
 
+## 🤖 Machine Learning Model
+
+### Random Forest Regressor
+
+The final model was trained using:
+
+* Scikit-Learn RandomForestRegressor
+* Train/Test Split
+* Feature Engineering
+* Hyperparameter Tuning
+
+### Performance
+
+| Metric   | Value                   |
+| -------- | ----------------------- |
+| R² Score | 0.81                    |
+| Model    | Random Forest Regressor |
+
+---
+
  
