@@ -158,4 +158,33 @@ LaptopPricePredictor/
 └── notebooks/
     └── LaptopPricePrediction.ipynb
 ```
+---
 
+## ▶️ Run Locally
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/LaptopPricePredictor.git
+```
+
+Move into the project folder:
+
+```bash
+cd LaptopPricePredictor
+```
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+Run the application:
+
+```bash
+streamlit run app.py
+```
+
+---
+ 
