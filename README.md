@@ -187,4 +187,14 @@ streamlit run app.py
 ```
 
 ---
+
+## 👨‍💻 Author
+
+Charuka Wijesingha
+
+Software Engineering Undergraduate | Machine Learning Enthusiast | Full Stack Developer
+
+```
+```
+
  
