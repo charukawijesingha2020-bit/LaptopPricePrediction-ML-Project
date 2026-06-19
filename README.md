@@ -192,7 +192,7 @@ streamlit run app.py
 
 Charuka Wijesingha
 
-Software Engineering Undergraduate | Machine Learning Enthusiast | Full Stack Developer
+Software Engineering Undergraduate  
 
 ```
 ```
